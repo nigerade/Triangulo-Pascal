@@ -29,6 +29,6 @@ O programa pergunta ao usuário qual o tamanho que ele quer que seja o Triângul
 Mais Informações sobre o Teorema do Triângulo de Pascal: https://www.todamateria.com.br/triangulo-de-pascal/
 
 
-Você pode ver o Projeto e Testar neste link: [Batalha Naval - C](https://onlinegdb.com/0QFhEr_WQ)
+Você pode ver o Projeto e Testar neste link: [Triângulo Pascal - C](https://onlinegdb.com/0QFhEr_WQ)
 
 --- 
